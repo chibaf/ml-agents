@@ -7,6 +7,8 @@
 ([latest release](https://github.com/Unity-Technologies/ml-agents/releases/tag/latest_release))
 ([all releases](https://github.com/Unity-Technologies/ml-agents/releases))
 
+## version 1.1
+
 **The Unity Machine Learning Agents Toolkit** (ML-Agents) is an open-source
 project that enables games and simulations to serve as environments for
 training intelligent agents. We provide implementations (based on PyTorch)
